@@ -393,14 +393,14 @@ date total_quantity
 
 ### Visualise the data:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e48279fc-5273-419e-990a-3dd34ca3c3fa/Untitled.png)
+![](https://github.com/georgehorgan/French_Bakery/blob/main/images/bakery_img1.png)
 
 Full version: [Tableau Time Series Viz](https://public.tableau.com/app/profile/george.horgan/viz/French_bakery_series/TimeSeries)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef5e3b3e-17c3-4130-882c-50ee057631c6/Untitled.png)
+![](https://github.com/georgehorgan/French_Bakery/blob/main/images/bakery_img2.png)
 
 Full version: [Tableau Pie Viz](https://public.tableau.com/app/profile/george.horgan/viz/French_bakery_pie/PieChart)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7641fdf-ae9a-46b7-9d36-af995eeaf207/Untitled.png)
+![](https://github.com/georgehorgan/French_Bakery/blob/main/images/bakery_img3.png)
 
 Full version: [Power BI file download](https://www.dropbox.com/scl/fi/hsf6ftkdhvwmi2ru0td7l/French_bakery.pbix?rlkey=4iwbcfrw9d6l67nq6162tbh4k&dl=0)
